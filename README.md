@@ -76,7 +76,6 @@
     <ul>
       <li>Desarrollo Frontend (HTML, CSS, JavaScript, React)</li>
       <li>Desarrollo Backend (Node.js, PHP, MySQL)</li>
-      <li>Solución de problemas de programación</li>
     </ul>
     
   <h2>Proyectos destacados</h2>
