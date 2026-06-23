@@ -1,3 +1,28 @@
+# 💻 Mi Portafolio Web - Marcos Movilla
+
+<!-- Tarjeta animada de bienvenida -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=Hello+%F0%9F%91%8B%2C+I%60m+Marcos+Movilla" alt="Typing SVG">
+</a>
+
+Estudiante en desarrollo de aplicaciones web, actualmente aprendiendo y explorando el mundo del código. Comencé mi camino en el desarrollo web en 2022, y desde entonces no he parado de aprender nuevas tecnologías y trabajar en proyectos que me desafían a mejorar.
+
+---
+
+## 🙋‍♂️ Sobre mí
+Tengo 19 años y actualmente estoy cursando el ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**. Me gusta explorar nuevas tecnologías, resolver problemas y crear proyectos que me ayuden a mejorar como desarrollador.
+
+### 🎯 Áreas de interés
+*   **Desarrollo Frontend:** HTML, CSS, JavaScript, React
+*   **Desarrollo Backend:** Node.js, PHP, MySQL
+
+---
+
+## 🛠️ Código del Proyecto (index.html)
+
+A continuación se encuentra el código fuente completo y mejorado del portafolio, estructurado con HTML semántico, diseño responsivo (CSS Grid) y variables nativas para la gestión de estilos:
+
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -5,7 +30,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Marcos Movilla | Desarrollador Web</title>
   <style>
-    /* Variables para gestionar colores fácilmente */
     :root {
       --primary-color: #2563eb;
       --primary-gradient: linear-gradient(135deg, #2563eb, #1d4ed8);
@@ -60,7 +84,6 @@
       padding-bottom: 8px;
     }
 
-    /* Estilos para las listas de Tecnologías/Intereses */
     ul {
       list-style-type: none;
       padding: 0;
@@ -85,7 +108,6 @@
       font-weight: bold;
     }
 
-    /* Contenedor de proyectos en modo "Card" */
     .projects-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -111,7 +133,6 @@
       color: #1e293b;
     }
 
-    /* Botones y Enlaces */
     .btn-contact {
       display: inline-block;
       background: var(--primary-gradient);
@@ -139,9 +160,8 @@
 <body>
 
   <header>
-    <!-- Tu SVG animado se mantiene arriba del todo -->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=Hello+%F0%9F%91%8B%2C+I%60m+Marcos+Movilla" alt="Typing SVG">
+    <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+      <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=Hello+%F0%9F%91%8B%2C+I%60m+Marcos+Movilla](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=Hello+%F0%9F%91%8B%2C+I%60m+Marcos+Movilla)" alt="Typing SVG">
     </a>
     <p>Estudiante de Desarrollo de Aplicaciones Web (DAW). Apasionado por crear soluciones a través del código desde 2022.</p>
   </header>
@@ -165,12 +185,10 @@
     <section>
       <h2>Proyectos destacados</h2>
       <div class="projects-grid">
-        <!-- Tarjeta de ejemplo 1 -->
         <div class="project-card">
           <h3>Proyecto 1</h3>
           <p style="color: var(--text-light); font-size: 0.9em;">Descripción breve del proyecto que hiciste. Tecnologías usadas: HTML, CSS, JS.</p>
         </div>
-        <!-- Tarjeta de ejemplo 2 -->
         <div class="project-card">
           <h3>Proyecto 2</h3>
           <p style="color: var(--text-light); font-size: 0.9em;">Próximamente. Proyecto enfocado en backend con PHP y MySQL. 👷</p>
