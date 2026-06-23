@@ -10,7 +10,7 @@ Estudiante en desarrollo de aplicaciones web, actualmente aprendiendo y exploran
 ---
 
 ## 🙋‍♂️ Sobre mí
-Tengo 19 años y actualmente estoy cursando el ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**. Me gusta explorar nuevas tecnologías, resolver problemas y crear proyectos que me ayuden a mejorar como desarrollador.
+Tengo 20 años y actualmente estoy cursando el ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**. Me gusta explorar nuevas tecnologías, resolver problemas y crear proyectos que me ayuden a mejorar como desarrollador.
 
 ### 🎯 Áreas de interés
 *   **Desarrollo Frontend:** HTML, CSS, JavaScript, React
